@@ -1,19 +1,46 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    background: #A2C5AC;    
 }
 
-{
-box-sizing: border-box;
-margin: 0;
-padding: 0;
-color: #7F6A93;
 
+.box{
+    background: #7F6A93;
+    margin-top: auto;
+    
 }
 
-.top.bar{
-    background-color: #7F6A93;
-padding: 20px;
 
+.box {
+    text-align: left;
+    color: #000000;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
 }
 
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+
+h2 {
+    text-align: center;
+    color: #000000;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+
+.text {
+    text-align: left;
+    color: #000000;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
