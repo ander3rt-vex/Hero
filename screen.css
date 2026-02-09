@@ -2,3 +2,18 @@
 a.active {
     font-weight: bold;
 }
+
+{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+color: #7F6A93;
+
+}
+
+.top.bar{
+    background-color: #7F6A93;
+padding: 20px;
+
+}
+
